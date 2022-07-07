@@ -56,7 +56,7 @@ import (
 	//                               vvvv                               //
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false"       // 服务器监控
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"         // 随机老婆
+	 "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"         // 随机老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"            // base16384加解密
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"          // 百度一下
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"       // 查询b站用户信息
@@ -71,11 +71,11 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"          // 嘉心糖发病
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/drift_bottle"   // 漂流瓶
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"       // 合成emoji
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic"       // 城市疫情查询
+	 "github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic"       // 城市疫情查询
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/font"           // 渲染任意文字到图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune"        // 运势
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/funny"          // 笑话
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"        // 原神抽卡
+	 "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"        // 原神抽卡
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"            // 制图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github"         // 搜索GitHub仓库
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"     // 猜歌
@@ -135,9 +135,9 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
+	 "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
+	 "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
